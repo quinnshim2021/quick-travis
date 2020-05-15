@@ -23,7 +23,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload!
+          <code>quick-travis tutorial</code> 
         </p>
         <a
           className="App-link"
@@ -31,7 +31,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Quick-travis!!
+          Learn React
         </a>
       </header>
     </div>
